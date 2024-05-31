@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateus Birtan</h1>
+<h1 align="center">Oi 👋, sou Mateus Birtan</h1>
 <h4 align="left">Sou um desenvolvedor especializado no ecossistema Javascript/Typescript e já trabalhei em projetos com as respectivas stacks: React, Nextjs, Vue, Nuxt.js, Serverless e Express. Também já atuei como Data Analyst com foco em CRMs (Zendesk e Salesforce). Também tenho alguma experiência em linguagens como Python, Ruby e Java</h4>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateusbirtann&title=Commits,Experience" alt="mateusbirtann" /></a> </p> -->

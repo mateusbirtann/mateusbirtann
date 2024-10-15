@@ -38,4 +38,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mateus-ferreira-16440a13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-ferreira-16440a13" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://twitter.com/dev_modinha" target="blank"><img src="https://img.shields.io/twitter/follow/dev_modinha?logo=twitter&style=for-the-badge" alt="dev_modinha" /></a> </p>
